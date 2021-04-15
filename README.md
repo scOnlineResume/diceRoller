@@ -5,7 +5,7 @@ It is an ideal app for playing board games.
 
 
 
-| pic_A  | pic_B |
+|   |  |
 | ------------- | ------------- |
 | <img width="119" alt="luckynumberscreenshotpic" src="https://user-images.githubusercontent.com/76691598/114826981-7930c400-9e0b-11eb-88bf-83305f06e8cc.png">  | <img width="119" alt="otherscreenshot" src="https://user-images.githubusercontent.com/76691598/114827034-8b126700-9e0b-11eb-9f51-5381c7e73d16.png">  |
 |   |   |
